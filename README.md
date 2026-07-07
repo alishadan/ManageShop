@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #MANAGE SHOP
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](version)
 [![License](https://img.shields.io/badge/license-MIT-green)](license)
@@ -103,3 +104,7 @@ Your Name
 
 
 
+=======
+# ManageShop
+MANAGE SHOP is a software that write in C language. whit this software you can easily manage a shop. you can enter customers, suppliers, products and give an invoice to a customer.
+>>>>>>> 602ba7aae7c010030b6f1008ec4b33fee6797442
