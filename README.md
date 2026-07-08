@@ -58,9 +58,13 @@ Figure 1: Main application window
 
 ---
 ### 📝 Changelog
+
 v1.0.0 (2026-07-06)
+
 🎉 Initial release
+
 Basic functionality implemented
+
 
 ---
 ### 🤝 Contributing
