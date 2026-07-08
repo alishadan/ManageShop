@@ -20,7 +20,7 @@ MANAGE SHOP is a software that write in C language. whit this software you can e
 
 ## ✨ Features
 
-- 🚀 **speed** - the software write in c an easily run and work
+- 🚀 **speed** - the software writen in c can easily run and work
 - ⚡ **manage** - enter, edit and view customers, products and suppliers
 - 📊 **invoice** - produce an invoice 
 
@@ -75,6 +75,6 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### 📧 Contact
-📧 Email: alishadan84.com
-💼 LinkedIn: alishadan84
-
+📧 Email: alishadan84@gmail.com
+💼 LinkedIn: ali-shadan-48359152/
+=======

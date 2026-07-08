@@ -8,7 +8,7 @@ build/edit_product.o build/edit_product_ui.o build/get_product.o\
 build/create_product.o build/create_product_ui.o\
 build/confirm_invoice.o build/final_string.o build/get_customer_invoice.o\
 build/get_product_invoice.o build/invoice_unit.o build/produce_string.o\
-build/about.o
+build/about.o build/check_folder.o build/check_requirements.o
 
 app: $(object)
 	gcc -o build/app $(object)
@@ -39,6 +39,11 @@ build/read_record.o: src/core/read_record.c
 
 build/read_last_record.o: src/core/read_last_record.c
 	gcc -c src/core/read_last_record.c -o build/read_last_record.o
+
+build/check_folder.o: src/utility/check_folder.c
+	gcc -c src/utility/check_folder.c -o build/check_folder.o
+build/check_requirements.o: src/business/check_requirements.c
+	gcc -c src/business/check_requirements.c -o build/check_requirements.o
 
 #human
 build/human_unit.o: src/ui/human_unit.c
