@@ -6,8 +6,14 @@
 #include "src/ui/about.h"
 #include "include/mylib/myc.h"
 #include "src/ui/main_menu.h"
-
+#include "src/business/check_requirements.h"
 int main(){
+	const char* folder_data="data";
+	int status=0;
+	if (check_requirements(&status)==-1){
+		printf("the requirements not provided\n");
+		return -1;
+	}
 	main_menu();
 	char n;
 	char response[6];

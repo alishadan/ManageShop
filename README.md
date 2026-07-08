@@ -1,8 +1,9 @@
-<<<<<<< HEAD
-#MANAGE SHOP
+MANAGE SHOP
+
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](version)
 [![License](https://img.shields.io/badge/license-MIT-green)](license)
-MANAGE SHOP is a software that write in C language. whit this software you can easily manage a shop. you can enter customers, suppliers, products and give an invoice to a customer.
+
+MANAGE SHOP is a software that writen in C language. whit this software you can easily manage a shop. you can enter customers, suppliers, products and give an invoice to a customer.
 
 ---
 
@@ -19,7 +20,7 @@ MANAGE SHOP is a software that write in C language. whit this software you can e
 
 ## ✨ Features
 
-- 🚀 **speed** - the software write in c an easily run and work
+- 🚀 **speed** - the software writen in c can easily run and work
 - ⚡ **manage** - enter, edit and view customers, products and suppliers
 - 📊 **invoice** - produce an invoice 
 
@@ -46,65 +47,33 @@ make
 
 # Run the program
 ./build/app
-
-💻 Usage
-Basic Usage
-bash
-# Run the program
-./build/app
-
-###📸 Screenshots
-![Main application window](./screenshots/main.png)
+```
+---
+### 📸 Screenshots
+![Main application window](./images/main.png)
 Figure 1: Main application window
 
-![Dashboard view](./screenshots/invoice.png)
+![Dashboard view](./images/invoice.png)
 *Figure 2: invoice view*
 
-📝 Changelog
+---
+### 📝 Changelog
 v1.0.0 (2026-07-06)
 🎉 Initial release
-
 Basic functionality implemented
 
-
-###🤝 Contributing
+---
+### 🤝 Contributing
 We welcome contributions! Please follow these steps:
+1. Fork the repository
+2. Create a branch: git checkout -b feature/amazing-feature
+3. Commit changes: git commit -m 'Add amazing feature'
+4. Push to branch: git push origin feature/amazing-feature
+5. Open a Pull Request
 
-Fork the repository
-
-Create a branch: git checkout -b feature/amazing-feature
-
-Commit changes: git commit -m 'Add amazing feature'
-
-Push to branch: git push origin feature/amazing-feature
-
-Open a Pull Request
-
-Guidelines
-Follow the existing code style
-
-Write tests for new features
-
-Update documentation
-
-Keep commits focused and descriptive
-
-###📄 License
+### 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-###📧 Contact
-Your Name
-
-📧 Email: alishadan84.com
-
-
-💼 LinkedIn: alishadan84
-
-
-
-
-
-=======
-# ManageShop
-MANAGE SHOP is a software that write in C language. whit this software you can easily manage a shop. you can enter customers, suppliers, products and give an invoice to a customer.
->>>>>>> 602ba7aae7c010030b6f1008ec4b33fee6797442
+### 📧 Contact
+📧 Email: alishadan84@gmail.com
+💼 LinkedIn: ali-shadan-48359152/
