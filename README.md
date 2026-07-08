@@ -3,7 +3,7 @@ MANAGE SHOP
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](version)
 [![License](https://img.shields.io/badge/license-MIT-green)](license)
 
-MANAGE SHOP is a software that write in C language. whit this software you can easily manage a shop. you can enter customers, suppliers, products and give an invoice to a customer.
+MANAGE SHOP is a software that written in C language. whit this software you can easily manage a shop. you can enter customers, suppliers, products and give an invoice to a customer.
 
 ---
 
